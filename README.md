@@ -1,7 +1,6 @@
 # Fraud Transaction Analysis
 
 
-## Data Stats:
 ### Dataset used: Fradulent Transactions 
 #### Link: [Fradulent Transactions Data](https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data) by Chitwan Manchanda
 ### Rows: 6.3 Million, Columns: 11
