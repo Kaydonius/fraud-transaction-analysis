@@ -32,3 +32,6 @@ data/processed/
 
 # Optional: raw data if too large
 data/raw/
+
+# My file
+kaydon.md
