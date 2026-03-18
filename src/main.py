@@ -10,7 +10,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 import ingest
 import transform
 import features
-
+import load
 
 
 def run():
@@ -23,8 +23,10 @@ def run():
     df = transform.transform(df)
 
     df = features.engineer_features(df) 
+
+    load.run(df)
     return df
 
 if __name__ == "__main__":
     df = run()
-    print(df.head())
+    
