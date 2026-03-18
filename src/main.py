@@ -1,4 +1,3 @@
-# run the pipeline end to end 
 import os
 import sys
 import logging
