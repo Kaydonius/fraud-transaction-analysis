@@ -1,8 +1,3 @@
-"""FUNCTIONAL REQUIREMENTS
-    1. Load raw data
-    2. Validate Required Columns
-    3. Print basic row and column counts"""
-
 import pandas as pd
 import logging
 
